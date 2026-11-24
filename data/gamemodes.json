@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Team Death",
+    "game_class": "KFXGame.KFXMeleeGame",
+    "default_player_limit": 16,
+    "default_kill_limit": 300,
+    "default_time_limit": 30,
+    "default_sub_time_limit": 0,
+    "default_bout_limit": 0,
+    "default_point_limit": 0,
+    "intro": "Any team that reach the maximum kill rate within certain time; if exceed the time, the team kill more will win, if both teams killed the same amount, then it is considered as Tie situation. If the fighting still not ended, the dead players of both teams can be recovered."
+  },
+  {
+    "id": 2,
+    "name": "Death Match",
+    "game_class": "KFXGame.KFXSingleGame",
+    "default_player_limit": 16,
+    "default_kill_limit": 0,
+    "default_time_limit": 30,
+    "default_sub_time_limit": 0,
+    "default_bout_limit": 0,
+    "default_point_limit": 0,
+    "intro": "Player kill each other in the name of individual, after the time ended, the rank is generated according to the kill rate of single round. If the fight still not ended, Players can do recovery again."
+  },
+  {
+    "id": 3,
+    "name": "Team Match",
+    "game_class": "KFXGame.KFXRoundGame",
+    "default_player_limit": 16,
+    "default_kill_limit": 0,
+    "default_time_limit": 0,
+    "default_sub_time_limit": 5,
+    "default_bout_limit": 3,
+    "default_point_limit": 0,
+    "intro": "Any team that kill all the players of another team first; if the time of single round is ended, the team that kill more will win. If both teams are same, then considered as Tie situation. The died players of both teams cannot be recovered."
+  },
+  {
+    "id": 4,
+    "name": "Bomb Match",
+    "game_class": "KFXGame.KFXBombGame",
+    "default_player_limit": 16,
+    "default_kill_limit": 0,
+    "default_time_limit": 0,
+    "default_sub_time_limit": 5,
+    "default_bout_limit": 3,
+    "default_point_limit": 0,
+    "intro": "Both teams need to explode the target and defend, the team that complete the mission will win. The died players of both teams cannot be recovered."
+  },
+  {
+    "id": 5,
+    "name": "Occupation Match",
+    "game_class": "KFXGame.KFXOccupyGame",
+    "default_player_limit": 16,
+    "default_kill_limit": 0,
+    "default_time_limit": 30,
+    "default_sub_time_limit": 0,
+    "default_bout_limit": 0,
+    "default_point_limit": 300,
+    "intro": "Seize the places on the map according to mission,the team that seized all the places, or seized more places before the time ended, can get victory, If both teams seized the same amount of places, then is considered as Tie situation. If the fighting still not ended,The died players of both teams can be recovered."
+  }
+]

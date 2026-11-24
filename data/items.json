@@ -1,0 +1,5240 @@
+[
+  {
+    "item_type": 65537,
+    "type_high": 1,
+    "type_low": 1,
+    "name": "AK47(Assault Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 90,
+      "30": 360,
+      "-1": 3000
+    },
+    "gp_prices": {
+      "1": 3000,
+      "7": 16200,
+      "30": 57600
+    }
+  },
+  {
+    "item_type": 65538,
+    "type_high": 1,
+    "type_low": 2,
+    "name": "M4A1(Assault Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 90,
+      "30": 360,
+      "-1": 3000
+    },
+    "gp_prices": {
+      "1": 3000,
+      "7": 16200,
+      "30": 57600
+    }
+  },
+  {
+    "item_type": 65539,
+    "type_high": 1,
+    "type_low": 3,
+    "name": "MP5(Submachine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2500
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65540,
+    "type_high": 1,
+    "type_low": 4,
+    "name": "XM1014(Shotgun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2500
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65541,
+    "type_high": 1,
+    "type_low": 5,
+    "name": "AWP(Sniper Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 35,
+      "7": 210,
+      "30": 840,
+      "-1": 7000
+    },
+    "gp_prices": {
+      "1": 7000,
+      "7": 37800,
+      "30": 134400
+    }
+  },
+  {
+    "item_type": 65542,
+    "type_high": 1,
+    "type_low": 6,
+    "name": "M249(Machine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4000
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 65543,
+    "type_high": 1,
+    "type_low": 7,
+    "name": "M60(Machine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 90,
+      "30": 360,
+      "-1": 3000
+    },
+    "gp_prices": {
+      "1": 3000,
+      "7": 16200,
+      "30": 57600
+    }
+  },
+  {
+    "item_type": 65544,
+    "type_high": 1,
+    "type_low": 8,
+    "name": "M3(Shotgun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2000
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65545,
+    "type_high": 1,
+    "type_low": 9,
+    "name": "MP7(Submachine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2000
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65546,
+    "type_high": 1,
+    "type_low": 10,
+    "name": "M24(Sniper Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2000
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65547,
+    "type_high": 1,
+    "type_low": 11,
+    "name": "BAZOOKA(Bazooka)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 35,
+      "7": 210,
+      "30": 840,
+      "-1": 7000
+    },
+    "gp_prices": {
+      "1": 7000,
+      "7": 37800,
+      "30": 134400
+    }
+  },
+  {
+    "item_type": 65548,
+    "type_high": 1,
+    "type_low": 12,
+    "name": "RPG7(Bazooka)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 40,
+      "7": 240,
+      "30": 960,
+      "-1": 8000
+    },
+    "gp_prices": {
+      "1": 8000,
+      "7": 43200,
+      "30": 153600
+    }
+  },
+  {
+    "item_type": 65549,
+    "type_high": 1,
+    "type_low": 13,
+    "name": "AUG_A2(Assault Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4000
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 65550,
+    "type_high": 1,
+    "type_low": 14,
+    "name": "G3/SG1(Sniper Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 90,
+      "30": 360,
+      "-1": 3000
+    },
+    "gp_prices": {
+      "1": 3000,
+      "7": 16200,
+      "30": 57600
+    }
+  },
+  {
+    "item_type": 65551,
+    "type_high": 1,
+    "type_low": 15,
+    "name": "M134(Machine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 40,
+      "7": 240,
+      "30": 960,
+      "-1": 8000
+    },
+    "gp_prices": {
+      "1": 8000,
+      "7": 43200,
+      "30": 153600
+    }
+  },
+  {
+    "item_type": 65552,
+    "type_high": 1,
+    "type_low": 16,
+    "name": "P90(Submachine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2000
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65553,
+    "type_high": 1,
+    "type_low": 17,
+    "name": "MGL_140(Artillery)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 40,
+      "7": 240,
+      "30": 960,
+      "-1": 8000
+    },
+    "gp_prices": {
+      "1": 8000,
+      "7": 43200,
+      "30": 153600
+    }
+  },
+  {
+    "item_type": 65554,
+    "type_high": 1,
+    "type_low": 18,
+    "name": "95style(Assault Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4000
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 65555,
+    "type_high": 1,
+    "type_low": 19,
+    "name": "Xm8(Submachine Gun)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4000
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 65556,
+    "type_high": 1,
+    "type_low": 20,
+    "name": "Scar (Assault Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 65557,
+    "type_high": 1,
+    "type_low": 21,
+    "name": "85Style (Sniper Rifle)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 50,
+      "7": 300,
+      "30": 1200,
+      "-1": 10000
+    },
+    "gp_prices": {
+      "1": 10000,
+      "7": 54000,
+      "30": 192000
+    }
+  },
+  {
+    "item_type": 65602,
+    "type_high": 1,
+    "type_low": 66,
+    "name": "Gold 95",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 2400,
+      "7": 4800,
+      "30": 9600
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 65603,
+    "type_high": 1,
+    "type_low": 67,
+    "name": "Camouflage AWP",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 4200,
+      "7": 8400,
+      "30": 16800
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 65589,
+    "type_high": 1,
+    "type_low": 53,
+    "name": "AWP(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65590,
+    "type_high": 1,
+    "type_low": 54,
+    "name": "AUG_A2(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65591,
+    "type_high": 1,
+    "type_low": 55,
+    "name": "G3/SG1(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65592,
+    "type_high": 1,
+    "type_low": 56,
+    "name": "BAZOOKA(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65593,
+    "type_high": 1,
+    "type_low": 57,
+    "name": "M60(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65594,
+    "type_high": 1,
+    "type_low": 58,
+    "name": "M24(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65595,
+    "type_high": 1,
+    "type_low": 59,
+    "name": "XM1014(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65596,
+    "type_high": 1,
+    "type_low": 60,
+    "name": "M3(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65597,
+    "type_high": 1,
+    "type_low": 61,
+    "name": "AK47(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65598,
+    "type_high": 1,
+    "type_low": 62,
+    "name": "M4A1(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65599,
+    "type_high": 1,
+    "type_low": 63,
+    "name": "MP5(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 65600,
+    "type_high": 1,
+    "type_low": 64,
+    "name": "MP7(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 40,
+      "30": 80,
+      "-1": 320
+    },
+    "gp_prices": {
+      "1": 900,
+      "7": 2500,
+      "30": 5000
+    }
+  },
+  {
+    "item_type": 65601,
+    "type_high": 1,
+    "type_low": 65,
+    "name": "P90(Trial Version)",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 50,
+      "30": 100,
+      "-1": 400
+    },
+    "gp_prices": {
+      "1": 1200,
+      "7": 3200,
+      "30": 6400
+    }
+  },
+  {
+    "item_type": 131078,
+    "type_high": 2,
+    "type_low": 6,
+    "name": "GLOCK(Pistol)",
+    "sex": 0,
+    "inventory_type": 3,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 5,
+      "7": 15,
+      "30": 30,
+      "-1": 100
+    },
+    "gp_prices": {
+      "1": 200,
+      "7": 600,
+      "30": 1200
+    }
+  },
+  {
+    "item_type": 131079,
+    "type_high": 2,
+    "type_low": 7,
+    "name": "Hawk of Desert(Pistol)",
+    "sex": 0,
+    "inventory_type": 3,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 5,
+      "7": 30,
+      "30": 120,
+      "-1": 1200
+    },
+    "gp_prices": {
+      "1": 1000,
+      "7": 5400,
+      "30": 19200
+    }
+  },
+  {
+    "item_type": 131080,
+    "type_high": 2,
+    "type_low": 8,
+    "name": "Mauser Pistol(Pistol)",
+    "sex": 0,
+    "inventory_type": 3,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 131081,
+    "type_high": 2,
+    "type_low": 9,
+    "name": "M500（Pistol）",
+    "sex": 0,
+    "inventory_type": 3,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 131082,
+    "type_high": 2,
+    "type_low": 10,
+    "name": "54 Style（Pistol）",
+    "sex": 0,
+    "inventory_type": 3,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 131099,
+    "type_high": 2,
+    "type_low": 27,
+    "name": "GLOCK(Trial Version)",
+    "sex": 0,
+    "inventory_type": 3,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 196616,
+    "type_high": 3,
+    "type_low": 8,
+    "name": "Melon Knife",
+    "sex": 0,
+    "inventory_type": 4,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 196617,
+    "type_high": 3,
+    "type_low": 9,
+    "name": "Hammer",
+    "sex": 0,
+    "inventory_type": 4,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 5,
+      "7": 30,
+      "30": 120,
+      "-1": 1200
+    },
+    "gp_prices": {
+      "1": 1000,
+      "7": 5400,
+      "30": 19200
+    }
+  },
+  {
+    "item_type": 196620,
+    "type_high": 3,
+    "type_low": 10,
+    "name": "Chinese Blade",
+    "sex": 0,
+    "inventory_type": 4,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 262154,
+    "type_high": 4,
+    "type_low": 10,
+    "name": "Pig Bomb",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 25,
+      "30": 50,
+      "-1": 200
+    },
+    "gp_prices": {
+      "1": 700,
+      "7": 2100,
+      "30": 4200
+    }
+  },
+  {
+    "item_type": 262155,
+    "type_high": 4,
+    "type_low": 11,
+    "name": "Flash Bang",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 5,
+      "7": 30,
+      "30": 120,
+      "-1": 1200
+    },
+    "gp_prices": {
+      "1": 1000,
+      "7": 5400,
+      "30": 19200
+    }
+  },
+  {
+    "item_type": 262156,
+    "type_high": 4,
+    "type_low": 12,
+    "name": "Explosive Bang",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 90,
+      "30": 360,
+      "-1": 3600
+    },
+    "gp_prices": {
+      "1": 3000,
+      "7": 16200,
+      "30": 57600
+    }
+  },
+  {
+    "item_type": 262157,
+    "type_high": 4,
+    "type_low": 13,
+    "name": "Smoke Bomb",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 262158,
+    "type_high": 4,
+    "type_low": 14,
+    "name": "Tortoise Bomb",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4500
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 262159,
+    "type_high": 4,
+    "type_low": 15,
+    "name": "CatBomb",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 15,
+      "7": 90,
+      "30": 360,
+      "-1": 3600
+    },
+    "gp_prices": {
+      "1": 3000,
+      "7": 16200,
+      "30": 57600
+    }
+  },
+  {
+    "item_type": 262160,
+    "type_high": 4,
+    "type_low": 16,
+    "name": "SnowmanBomb",
+    "sex": 0,
+    "inventory_type": 5,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 25,
+      "7": 150,
+      "30": 600,
+      "-1": 5000
+    },
+    "gp_prices": {
+      "1": 5000,
+      "7": 27000,
+      "30": 96000
+    }
+  },
+  {
+    "item_type": 589825,
+    "type_high": 9,
+    "type_low": 1,
+    "name": "Jun",
+    "sex": 0,
+    "inventory_type": 1,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 20,
+      "7": 50,
+      "30": 100,
+      "-1": 350
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 589826,
+    "type_high": 9,
+    "type_low": 2,
+    "name": "Lun",
+    "sex": 0,
+    "inventory_type": 1,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 20,
+      "7": 50,
+      "30": 100,
+      "-1": 350
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 589875,
+    "type_high": 9,
+    "type_low": 51,
+    "name": "Kiki",
+    "sex": 0,
+    "inventory_type": 1,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 25,
+      "7": 60,
+      "30": 120,
+      "-1": 450
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 589876,
+    "type_high": 9,
+    "type_low": 52,
+    "name": "Gill",
+    "sex": 0,
+    "inventory_type": 1,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 25,
+      "7": 60,
+      "30": 120,
+      "-1": 450
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 589925,
+    "type_high": 9,
+    "type_low": 101,
+    "name": "Keong",
+    "sex": 0,
+    "inventory_type": 1,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 20,
+      "7": 50,
+      "30": 100,
+      "-1": 350
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 589926,
+    "type_high": 9,
+    "type_low": 102,
+    "name": "Lily",
+    "sex": 0,
+    "inventory_type": 1,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 20,
+      "7": 50,
+      "30": 100,
+      "-1": 350
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 655361,
+    "type_high": 10,
+    "type_low": 1,
+    "name": "Protection Card LV1",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 655362,
+    "type_high": 10,
+    "type_low": 2,
+    "name": "Protection Card LV2",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4500
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 655363,
+    "type_high": 10,
+    "type_low": 3,
+    "name": "Protection Card LV3",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 30,
+      "7": 180,
+      "30": 720,
+      "-1": 6000
+    },
+    "gp_prices": {
+      "1": 6000,
+      "7": 32400,
+      "30": 115200
+    }
+  },
+  {
+    "item_type": 655364,
+    "type_high": 10,
+    "type_low": 4,
+    "name": "Protection Card LV4",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 40,
+      "7": 240,
+      "30": 960,
+      "-1": 7500
+    },
+    "gp_prices": {
+      "1": 8000,
+      "7": 43200,
+      "30": 153600
+    }
+  },
+  {
+    "item_type": 720897,
+    "type_high": 11,
+    "type_low": 1,
+    "name": "Deafen Shoes",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 720898,
+    "type_high": 11,
+    "type_low": 2,
+    "name": "Accelerator card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 786433,
+    "type_high": 12,
+    "type_low": 1,
+    "name": "Dance Restore Card LV1",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 786434,
+    "type_high": 12,
+    "type_low": 2,
+    "name": "Dance Restore Card LV2",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4500
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 786435,
+    "type_high": 12,
+    "type_low": 3,
+    "name": "Dance Restore Card LV3",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 30,
+      "7": 180,
+      "30": 720,
+      "-1": 6000
+    },
+    "gp_prices": {
+      "1": 6000,
+      "7": 32400,
+      "30": 115200
+    }
+  },
+  {
+    "item_type": 851969,
+    "type_high": 13,
+    "type_low": 1,
+    "name": "Weapon Exchange Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {}
+  },
+  {
+    "item_type": 983041,
+    "type_high": 15,
+    "type_low": 1,
+    "name": "Automatic Aiming Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "1": 100,
+      "7": 200,
+      "30": 500
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1048577,
+    "type_high": 16,
+    "type_low": 1,
+    "name": "Weapon Picking Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 30,
+      "7": 180,
+      "30": 720,
+      "-1": 6000
+    },
+    "gp_prices": {
+      "1": 6000,
+      "7": 32400,
+      "30": 115200
+    }
+  },
+  {
+    "item_type": 1114113,
+    "type_high": 17,
+    "type_low": 1,
+    "name": "Cartridge Card LV1",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 1114114,
+    "type_high": 17,
+    "type_low": 2,
+    "name": "Cartridge Card LV2",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4500
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 1114115,
+    "type_high": 17,
+    "type_low": 3,
+    "name": "Cartridge Card LV3",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 25,
+      "7": 150,
+      "30": 600,
+      "-1": 5000
+    },
+    "gp_prices": {
+      "1": 5000,
+      "7": 27000,
+      "30": 96000
+    }
+  },
+  {
+    "item_type": 1179649,
+    "type_high": 18,
+    "type_low": 1,
+    "name": "Honor Card LV1",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4500
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 1179650,
+    "type_high": 18,
+    "type_low": 2,
+    "name": "Honor Card LV2",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 30,
+      "7": 180,
+      "30": 720,
+      "-1": 6000
+    },
+    "gp_prices": {
+      "1": 6000,
+      "7": 32400,
+      "30": 115200
+    }
+  },
+  {
+    "item_type": 1179651,
+    "type_high": 18,
+    "type_low": 3,
+    "name": "Honor Card LV3",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 40,
+      "7": 240,
+      "30": 960,
+      "-1": 7500
+    },
+    "gp_prices": {
+      "1": 8000,
+      "7": 43200,
+      "30": 153600
+    }
+  },
+  {
+    "item_type": 1245185,
+    "type_high": 19,
+    "type_low": 1,
+    "name": "Grenade Pack LV1",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 10,
+      "7": 60,
+      "30": 240,
+      "-1": 2400
+    },
+    "gp_prices": {
+      "1": 2000,
+      "7": 10800,
+      "30": 38400
+    }
+  },
+  {
+    "item_type": 1245186,
+    "type_high": 19,
+    "type_low": 2,
+    "name": "Grenade Pack LV2",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 20,
+      "7": 120,
+      "30": 480,
+      "-1": 4500
+    },
+    "gp_prices": {
+      "1": 4000,
+      "7": 21600,
+      "30": 76800
+    }
+  },
+  {
+    "item_type": 1245187,
+    "type_high": 19,
+    "type_low": 3,
+    "name": "Grenade Pack LV3",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 30,
+      "7": 180,
+      "30": 720,
+      "-1": 6000
+    },
+    "gp_prices": {
+      "1": 6000,
+      "7": 32400,
+      "30": 115200
+    }
+  },
+  {
+    "item_type": 1245188,
+    "type_high": 19,
+    "type_low": 4,
+    "name": "Grenade Pack LV4",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1310721,
+    "type_high": 20,
+    "type_low": 1,
+    "name": "Small Loudspeaker",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 2,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "3": 5
+    },
+    "gp_prices": {
+      "3": 300
+    }
+  },
+  {
+    "item_type": 1376258,
+    "type_high": 21,
+    "type_low": 2,
+    "name": "Large Loudspeaker",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 2,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "3": 10
+    },
+    "gp_prices": {
+      "3": 600
+    }
+  },
+  {
+    "item_type": 1441793,
+    "type_high": 22,
+    "type_low": 1,
+    "name": "VIP Room Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 25
+    },
+    "gp_prices": {
+      "1": 1500
+    }
+  },
+  {
+    "item_type": 1507329,
+    "type_high": 23,
+    "type_low": 1,
+    "name": "Observer Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1572865,
+    "type_high": 24,
+    "type_low": 1,
+    "name": "Restore Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1638401,
+    "type_high": 25,
+    "type_low": 1,
+    "name": "Recovery Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1703937,
+    "type_high": 26,
+    "type_low": 1,
+    "name": "变身时间减少卡",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1769473,
+    "type_high": 27,
+    "type_low": 1,
+    "name": "消音卡",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1835009,
+    "type_high": 28,
+    "type_low": 1,
+    "name": "減傷卡",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {},
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1900545,
+    "type_high": 29,
+    "type_low": 1,
+    "name": "Clan Create Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 4000,
+      "7": 8000,
+      "30": 12000,
+      "-1": 16000
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 1966081,
+    "type_high": 30,
+    "type_low": 1,
+    "name": "Clan Expand Card",
+    "sex": 0,
+    "inventory_type": 11,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": true,
+    "csp_prices": {
+      "1": 4000,
+      "7": 8000,
+      "30": 12000,
+      "-1": 16000
+    },
+    "gp_prices": {
+      "1": 10,
+      "7": 10,
+      "30": 10
+    }
+  },
+  {
+    "item_type": 6554725,
+    "type_high": 100,
+    "type_low": 1125,
+    "name": "Autumn Genius",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620251,
+    "type_high": 101,
+    "type_low": 1115,
+    "name": "LongShort Set Black",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620252,
+    "type_high": 101,
+    "type_low": 1116,
+    "name": "LongShort Set Cartoon",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620353,
+    "type_high": 101,
+    "type_low": 1217,
+    "name": "Sporty Vest Grey",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620451,
+    "type_high": 101,
+    "type_low": 1315,
+    "name": "Casual Suit   Black",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620452,
+    "type_high": 101,
+    "type_low": 1316,
+    "name": "Casual Suit   White",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620453,
+    "type_high": 101,
+    "type_low": 1317,
+    "name": "MAT Blue&Yellow",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686007,
+    "type_high": 102,
+    "type_low": 1335,
+    "name": "Yellow Sporty Trouseres",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560721,
+    "type_high": 100,
+    "type_low": 7121,
+    "name": "Bloom of Youth",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560722,
+    "type_high": 100,
+    "type_low": 7122,
+    "name": "Foreign Lady",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560723,
+    "type_high": 100,
+    "type_low": 7123,
+    "name": "Capable Lady",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560724,
+    "type_high": 100,
+    "type_low": 7124,
+    "name": "Cool Girl",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554721,
+    "type_high": 100,
+    "type_low": 1121,
+    "name": "Red Flame Skyscraper",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554722,
+    "type_high": 100,
+    "type_low": 1122,
+    "name": "Red Scarf+Glasses",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554723,
+    "type_high": 100,
+    "type_low": 1123,
+    "name": "Dark God of War",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554724,
+    "type_high": 100,
+    "type_low": 1124,
+    "name": "Blue Wave",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554821,
+    "type_high": 100,
+    "type_low": 1221,
+    "name": "Uninhibited  Golden",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554822,
+    "type_high": 100,
+    "type_low": 1222,
+    "name": "Uninhibited  PureBlack",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554823,
+    "type_high": 100,
+    "type_low": 1223,
+    "name": "Uninhibited  SilverWhite",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554824,
+    "type_high": 100,
+    "type_low": 1224,
+    "name": "Uninhibited  Coffee",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554825,
+    "type_high": 100,
+    "type_low": 1225,
+    "name": "不羈 玫瑰紅",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554826,
+    "type_high": 100,
+    "type_low": 1226,
+    "name": "Uninhibited  Light Blue",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554921,
+    "type_high": 100,
+    "type_low": 1321,
+    "name": "Wild Fire Red",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554922,
+    "type_high": 100,
+    "type_low": 1322,
+    "name": "Wild Dark Grey",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6554923,
+    "type_high": 100,
+    "type_low": 1323,
+    "name": "Wild Pure Black",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555021,
+    "type_high": 100,
+    "type_low": 1421,
+    "name": "光頭",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555022,
+    "type_high": 100,
+    "type_low": 1422,
+    "name": "光頭2",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555023,
+    "type_high": 100,
+    "type_low": 1423,
+    "name": "短髮",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555121,
+    "type_high": 100,
+    "type_low": 1521,
+    "name": "白色髮帶",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555122,
+    "type_high": 100,
+    "type_low": 1522,
+    "name": "閃耀 橙色",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555123,
+    "type_high": 100,
+    "type_low": 1523,
+    "name": "閃耀 捲髮",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555124,
+    "type_high": 100,
+    "type_low": 1524,
+    "name": "閃耀 金黃",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555221,
+    "type_high": 100,
+    "type_low": 1621,
+    "name": "鬍子男",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555321,
+    "type_high": 100,
+    "type_low": 1721,
+    "name": "立髮彩繪",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6557721,
+    "type_high": 100,
+    "type_low": 4121,
+    "name": "Grey Helmet for police",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6557722,
+    "type_high": 100,
+    "type_low": 4122,
+    "name": "軍用雪地迷彩頭盔(男)",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6557723,
+    "type_high": 100,
+    "type_low": 4123,
+    "name": "Desert Helmert for Army",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6557724,
+    "type_high": 100,
+    "type_low": 4124,
+    "name": "軍用叢林迷彩頭盔(男)",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6557725,
+    "type_high": 100,
+    "type_low": 4125,
+    "name": "警用白色迷彩頭盔(男)",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559721,
+    "type_high": 100,
+    "type_low": 6121,
+    "name": "Red-Haired Witch",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559722,
+    "type_high": 100,
+    "type_low": 6122,
+    "name": "Plum Short Hair",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559723,
+    "type_high": 100,
+    "type_low": 6123,
+    "name": "Beach Gal",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559724,
+    "type_high": 100,
+    "type_low": 6124,
+    "name": "Grim Lady",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559821,
+    "type_high": 100,
+    "type_low": 6221,
+    "name": "Beret  Black",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559822,
+    "type_high": 100,
+    "type_low": 6222,
+    "name": "Beret  Black&White Army",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559823,
+    "type_high": 100,
+    "type_low": 6223,
+    "name": "Beret  Wild Orange",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559824,
+    "type_high": 100,
+    "type_low": 6224,
+    "name": "Beret  Oldish Chic",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559921,
+    "type_high": 100,
+    "type_low": 6321,
+    "name": "Red Hairlace",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559922,
+    "type_high": 100,
+    "type_low": 6322,
+    "name": "Golden Hairlace",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559923,
+    "type_high": 100,
+    "type_low": 6323,
+    "name": "Blue Hairlace",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6559924,
+    "type_high": 100,
+    "type_low": 6324,
+    "name": "Flower Pattern Hairlace",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560021,
+    "type_high": 100,
+    "type_low": 6421,
+    "name": "生化奇兵（頭）",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560121,
+    "type_high": 100,
+    "type_low": 6521,
+    "name": "低腰背帶（頭）",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560221,
+    "type_high": 100,
+    "type_low": 6621,
+    "name": "夢幻童話（頭）",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560321,
+    "type_high": 100,
+    "type_low": 6721,
+    "name": "西部風情（頭）",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560421,
+    "type_high": 100,
+    "type_low": 6821,
+    "name": "情慾女王（頭）",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560521,
+    "type_high": 100,
+    "type_low": 6921,
+    "name": "可愛女僕（頭）",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6562721,
+    "type_high": 100,
+    "type_low": 9121,
+    "name": "Grey Helmet for police",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6562722,
+    "type_high": 100,
+    "type_low": 9122,
+    "name": "警用白色迷彩頭盔(女)",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6562723,
+    "type_high": 100,
+    "type_low": 9123,
+    "name": "軍用叢林迷彩頭盔(女)",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6562724,
+    "type_high": 100,
+    "type_low": 9124,
+    "name": "Desert Helmert for Army",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6562725,
+    "type_high": 100,
+    "type_low": 9125,
+    "name": "軍用雪地迷彩頭盔(女)",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620247,
+    "type_high": 101,
+    "type_low": 1111,
+    "name": "Long/Short sleeve ZERO",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620248,
+    "type_high": 101,
+    "type_low": 1112,
+    "name": "1943 Long/Short sleeve",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620249,
+    "type_high": 101,
+    "type_low": 1113,
+    "name": "Long/Short sleeve I can",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620250,
+    "type_high": 101,
+    "type_low": 1114,
+    "name": "Blue Long/Short sleeve",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620347,
+    "type_high": 101,
+    "type_low": 1211,
+    "name": "Trendy Vest  Dark Orange",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620348,
+    "type_high": 101,
+    "type_low": 1212,
+    "name": "運動背心 紅藍",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620349,
+    "type_high": 101,
+    "type_low": 1213,
+    "name": "Sporty Vest  Pure White",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620350,
+    "type_high": 101,
+    "type_low": 1214,
+    "name": "龍紋身背心",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620351,
+    "type_high": 101,
+    "type_low": 1215,
+    "name": "Blue/White stripes Vest",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620352,
+    "type_high": 101,
+    "type_low": 1216,
+    "name": "Sporty Vest  Fire",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620447,
+    "type_high": 101,
+    "type_low": 1311,
+    "name": "Black-Red Long Sleeve",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620448,
+    "type_high": 101,
+    "type_low": 1312,
+    "name": "Black-White Long Sleeve",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620449,
+    "type_high": 101,
+    "type_low": 1313,
+    "name": "Leather Long Sleeve",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620450,
+    "type_high": 101,
+    "type_low": 1314,
+    "name": "MAT Blue&Yellow",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620547,
+    "type_high": 101,
+    "type_low": 1411,
+    "name": "赤膊紋身",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620548,
+    "type_high": 101,
+    "type_low": 1412,
+    "name": "赤膊紋身2",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620549,
+    "type_high": 101,
+    "type_low": 1413,
+    "name": "皮制「上衣」",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620647,
+    "type_high": 101,
+    "type_low": 1511,
+    "name": "淺灰防寒服",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620648,
+    "type_high": 101,
+    "type_low": 1512,
+    "name": "墨綠防寒服",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620649,
+    "type_high": 101,
+    "type_low": 1513,
+    "name": "淡藍防寒服",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620650,
+    "type_high": 101,
+    "type_low": 1514,
+    "name": "紅白防寒服",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620651,
+    "type_high": 101,
+    "type_low": 1515,
+    "name": "皮制防寒服",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620747,
+    "type_high": 101,
+    "type_low": 1611,
+    "name": "藍色闊領",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6620847,
+    "type_high": 101,
+    "type_low": 1711,
+    "name": "標靶服",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6623247,
+    "type_high": 101,
+    "type_low": 4111,
+    "name": "Grey Shirt for police",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6623248,
+    "type_high": 101,
+    "type_low": 4112,
+    "name": "軍用雪地迷彩上衣(男)",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6623249,
+    "type_high": 101,
+    "type_low": 4113,
+    "name": "Desert Shirt for Army",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6623250,
+    "type_high": 101,
+    "type_low": 4114,
+    "name": "軍用叢林迷彩上衣(男)",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6623251,
+    "type_high": 101,
+    "type_low": 4115,
+    "name": "警用白色迷彩上衣(男)",
+    "sex": 1,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625247,
+    "type_high": 101,
+    "type_low": 6111,
+    "name": "Red Navel Coat",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625248,
+    "type_high": 101,
+    "type_low": 6112,
+    "name": "Plum Navel Coat",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625249,
+    "type_high": 101,
+    "type_low": 6113,
+    "name": "Light Blue Navel Coat",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625250,
+    "type_high": 101,
+    "type_low": 6114,
+    "name": "Green-Collar Navel Coat",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625347,
+    "type_high": 101,
+    "type_low": 6211,
+    "name": "Fine short Armor Black",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625348,
+    "type_high": 101,
+    "type_low": 6212,
+    "name": "Fine short Armor Army",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625349,
+    "type_high": 101,
+    "type_low": 6213,
+    "name": "Fine short Armor Red Box",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625350,
+    "type_high": 101,
+    "type_low": 6214,
+    "name": "Fine short Armor Desert",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625447,
+    "type_high": 101,
+    "type_low": 6311,
+    "name": "Red Navel Suit+Scarf",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625448,
+    "type_high": 101,
+    "type_low": 6312,
+    "name": "White Navel Suit+Scarf",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625449,
+    "type_high": 101,
+    "type_low": 6313,
+    "name": "Blue Navel Suit+Scarf",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625450,
+    "type_high": 101,
+    "type_low": 6314,
+    "name": "Oldish Navel Suit+Scarf",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625547,
+    "type_high": 101,
+    "type_low": 6411,
+    "name": "生化奇兵（上身）",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625647,
+    "type_high": 101,
+    "type_low": 6511,
+    "name": "低腰背帶（上身）",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625747,
+    "type_high": 101,
+    "type_low": 6611,
+    "name": "夢幻童話（上身）",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625847,
+    "type_high": 101,
+    "type_low": 6711,
+    "name": "西部風情（上身）",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6625947,
+    "type_high": 101,
+    "type_low": 6811,
+    "name": "情慾女王（上身）",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6626047,
+    "type_high": 101,
+    "type_low": 6911,
+    "name": "可愛女僕（上身）",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6628247,
+    "type_high": 101,
+    "type_low": 9111,
+    "name": "Grey Shirt for police",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6628248,
+    "type_high": 101,
+    "type_low": 9112,
+    "name": "警用白色迷彩上衣(女)",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6628249,
+    "type_high": 101,
+    "type_low": 9113,
+    "name": "軍用叢林迷彩上衣(女)",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6628250,
+    "type_high": 101,
+    "type_low": 9114,
+    "name": "Desert Shirt for Army",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6628251,
+    "type_high": 101,
+    "type_low": 9115,
+    "name": "軍用雪地迷彩上衣(女)",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685803,
+    "type_high": 102,
+    "type_low": 1131,
+    "name": "Casual Trouser Dark Grey",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685804,
+    "type_high": 102,
+    "type_low": 1132,
+    "name": "Casual Trouser   Green",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685805,
+    "type_high": 102,
+    "type_low": 1133,
+    "name": "Casual Trouser  Hard Ash",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685806,
+    "type_high": 102,
+    "type_low": 1134,
+    "name": "Casual Trouser   Blue",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685903,
+    "type_high": 102,
+    "type_low": 1231,
+    "name": "CasualMediumPants Green",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685904,
+    "type_high": 102,
+    "type_low": 1232,
+    "name": "CasualMediumPants Box",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685905,
+    "type_high": 102,
+    "type_low": 1233,
+    "name": "CasualMediumPants Black",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6685906,
+    "type_high": 102,
+    "type_low": 1234,
+    "name": "CasualMediumPants Army",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686003,
+    "type_high": 102,
+    "type_low": 1331,
+    "name": "Uniform Trousers  Blue",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686004,
+    "type_high": 102,
+    "type_low": 1332,
+    "name": "Uniform Trousers  Army",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686005,
+    "type_high": 102,
+    "type_low": 1333,
+    "name": "Uniform Trousers  Brown",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686006,
+    "type_high": 102,
+    "type_low": 1334,
+    "name": "Uniform Trousers  White",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686103,
+    "type_high": 102,
+    "type_low": 1431,
+    "name": "紅色掛鏈休閒長褲（男）",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686104,
+    "type_high": 102,
+    "type_low": 1432,
+    "name": "火熱長褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686203,
+    "type_high": 102,
+    "type_low": 1531,
+    "name": "咖啡色休閒長褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686204,
+    "type_high": 102,
+    "type_low": 1532,
+    "name": "梅紅色休閒長褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686205,
+    "type_high": 102,
+    "type_low": 1533,
+    "name": "黑色藍帶休閒長褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686206,
+    "type_high": 102,
+    "type_low": 1534,
+    "name": "灰色休閒長褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686207,
+    "type_high": 102,
+    "type_low": 1535,
+    "name": "藍色休閒長褲2",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686303,
+    "type_high": 102,
+    "type_low": 1631,
+    "name": "淺灰格子褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686403,
+    "type_high": 102,
+    "type_low": 1731,
+    "name": "咖啡色闊兜褲",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6688803,
+    "type_high": 102,
+    "type_low": 4131,
+    "name": "Grey Trousers for police",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6688804,
+    "type_high": 102,
+    "type_low": 4132,
+    "name": "軍用雪地迷彩長褲(男)",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6688805,
+    "type_high": 102,
+    "type_low": 4133,
+    "name": "Desert Trousers for Army",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6688806,
+    "type_high": 102,
+    "type_low": 4134,
+    "name": "軍用叢林迷彩長褲(男)",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6688807,
+    "type_high": 102,
+    "type_low": 4135,
+    "name": "警用白色迷彩長褲(男)",
+    "sex": 1,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690803,
+    "type_high": 102,
+    "type_low": 6131,
+    "name": "MilitaryTrousers  Green",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690804,
+    "type_high": 102,
+    "type_low": 6132,
+    "name": "MilitaryTrousers  Plum",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690805,
+    "type_high": 102,
+    "type_low": 6133,
+    "name": "MilitaryTrousers  Black",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690806,
+    "type_high": 102,
+    "type_low": 6134,
+    "name": "MilitaryTrousers  Snowy",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690903,
+    "type_high": 102,
+    "type_low": 6231,
+    "name": "ShortPants&Boots Black",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690904,
+    "type_high": 102,
+    "type_low": 6232,
+    "name": "ShortPants&Boots Army",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690905,
+    "type_high": 102,
+    "type_low": 6233,
+    "name": "ShortPants&Boots  Red",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6690906,
+    "type_high": 102,
+    "type_low": 6234,
+    "name": "ShortPants&Boots Plum",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691003,
+    "type_high": 102,
+    "type_low": 6331,
+    "name": "Dark Red Chain Casual",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691004,
+    "type_high": 102,
+    "type_low": 6332,
+    "name": "ArmyChainCasual Trousers",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691005,
+    "type_high": 102,
+    "type_low": 6333,
+    "name": "BlueChainCasual Trousers",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691006,
+    "type_high": 102,
+    "type_low": 6334,
+    "name": "RedChainCasual Trousers",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691103,
+    "type_high": 102,
+    "type_low": 6431,
+    "name": "生化奇兵（下身）",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691203,
+    "type_high": 102,
+    "type_low": 6531,
+    "name": "低腰背帶（下身）",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691303,
+    "type_high": 102,
+    "type_low": 6631,
+    "name": "夢幻童話（下身）",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691403,
+    "type_high": 102,
+    "type_low": 6731,
+    "name": "西部風情（下身）",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691503,
+    "type_high": 102,
+    "type_low": 6831,
+    "name": "情慾女王（下身）",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691603,
+    "type_high": 102,
+    "type_low": 6931,
+    "name": "可愛女僕（下身）",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6693803,
+    "type_high": 102,
+    "type_low": 9131,
+    "name": "Grey Trousers for police",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6693804,
+    "type_high": 102,
+    "type_low": 9132,
+    "name": "警用白色迷彩長褲(女)",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6693805,
+    "type_high": 102,
+    "type_low": 9133,
+    "name": "軍用叢林迷彩長褲(女)",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6693806,
+    "type_high": 102,
+    "type_low": 9134,
+    "name": "Desert Trousers for Army",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6693807,
+    "type_high": 102,
+    "type_low": 9135,
+    "name": "軍用雪地迷彩長褲(女)",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6555621,
+    "type_high": 100,
+    "type_low": 2021,
+    "name": "男GM頭部",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6621147,
+    "type_high": 101,
+    "type_low": 2011,
+    "name": "男GM上裝",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6686703,
+    "type_high": 102,
+    "type_low": 2031,
+    "name": "男GM下裝",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6560621,
+    "type_high": 100,
+    "type_low": 7021,
+    "name": "女GM頭部",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6626147,
+    "type_high": 101,
+    "type_low": 7011,
+    "name": "女GM上裝",
+    "sex": 2,
+    "inventory_type": 13,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6691703,
+    "type_high": 102,
+    "type_low": 7031,
+    "name": "女GM下裝",
+    "sex": 2,
+    "inventory_type": 14,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6573821,
+    "type_high": 100,
+    "type_low": 20221,
+    "name": "Santa's hat",
+    "sex": 1,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 6583821,
+    "type_high": 100,
+    "type_low": 30221,
+    "name": "Santa's hat",
+    "sex": 2,
+    "inventory_type": 12,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 10,
+      "7": 30,
+      "30": 120,
+      "-1": 500
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 65604,
+    "type_high": 1,
+    "type_low": 68,
+    "name": "Desert AK47",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 2400,
+      "7": 4800,
+      "30": 9600
+    },
+    "gp_prices": {}
+  },
+  {
+    "item_type": 65605,
+    "type_high": 1,
+    "type_low": 69,
+    "name": "Fade M4A1",
+    "sex": 0,
+    "inventory_type": 2,
+    "use_type": 1,
+    "use_count": 0,
+    "level_limit": 0,
+    "can_buy_with_gp": false,
+    "csp_prices": {
+      "2": 2400,
+      "7": 4800,
+      "30": 9600
+    },
+    "gp_prices": {}
+  }
+]

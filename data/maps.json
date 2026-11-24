@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Subway Station",
+    "map_file": "DF-DiTieZhan",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 3,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "Although there are damages on many parts, but the subway station still can operate smoothly. The car compartment at the 1st floor is a very good bunker, and the 2nd floor is conquered by Sniper Rifle."
+  },
+  {
+    "id": 2,
+    "name": "Sea Bar",
+    "map_file": "DF-JiuBaJie",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 3,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "A gathering place for the trendy citizens of a famous city. This place is lack of the location with wide view, the Sniper Rifle is harder to maximize the power, but other weapons can help you to get victory."
+  },
+  {
+    "id": 3,
+    "name": "War Town",
+    "map_file": "DF-ZhanZhengXiaoZhen",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 1,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "Experienced a war before, but still can know that it is a town with Ancient China Town style. There are many hidden places in this area, suitable for sneak attack."
+  },
+  {
+    "id": 4,
+    "name": "Frontier City",
+    "map_file": "BD-BianJingTuCheng",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 4,
+    "allowed_modes": [
+      1,
+      3,
+      4
+    ],
+    "info": "A small city located at the frontier of country, just experience war. Because of the ever changing terrain and the complicated structure, any weapon can be very useful at this area."
+  },
+  {
+    "id": 5,
+    "name": "Tie Xi Warehouse",
+    "map_file": "DF-HuoYunCangKu",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 1,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "A   freight warehouse located at the domestic industrial city Tie Xi. Because of the earlier construction time, the ware house is not big. Assault Rifle and Bazooka can maximize the power at this area."
+  },
+  {
+    "id": 6,
+    "name": "Western Town",
+    "map_file": "DF-ShuangShiZhenJieDao",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 1,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "The town also known as Double Stone Town, the town is tranquil, suitable for practice. Assault Rifle and Bazooka can maximize the power at this place."
+  },
+  {
+    "id": 7,
+    "name": "Armory",
+    "map_file": "DM-FeiQiGongChang",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 2,
+    "allowed_modes": [
+      2
+    ],
+    "info": "A famous armory in the country. Although the armory has changed for civil, it still maintain the complicated routine. At this area, Assault Rifle is more suitable to be used to fight the enemies."
+  },
+  {
+    "id": 8,
+    "name": "Heat Power Station",
+    "map_file": "DF-ReDianZhan",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 3,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "A heat power station located at the underground of a city. Miniature Submachine Gun and Shrapnel Gun are more suitable to cope with this kind of terrain which is for short-distance fighting."
+  },
+  {
+    "id": 9,
+    "name": "Lou Lan Ancient City",
+    "map_file": "DF-ShuangShiZhenChengLou",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 1,
+    "allowed_modes": [
+      1,
+      3,
+      5
+    ],
+    "info": "The famous Lou Lan Ancient City, the buildings in the city are magnificent, suitable for medium-distance  fighting.  At this area, Sniper Rifle can conquers all."
+  },
+  {
+    "id": 10,
+    "name": "Tianshan Base",
+    "map_file": "BD-XueShanShaoSuo",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 4,
+    "allowed_modes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "info": "An unknown base for special training, located inside Tianshan. At this place, the only thing to do is to complete the mission. Let's make use all of the weapons that you good at."
+  },
+  {
+    "id": 11,
+    "name": "Vestige of Dark Water",
+    "map_file": "DF-GuGeShenMiao",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 1,
+    "allowed_modes": [
+      1,
+      3
+    ],
+    "info": "There are mysteries treasures hidden in the Vestige of Dark Water that attracted many adventurers. Various terrains are available, and any weapon can be very useful at this area."
+  },
+  {
+    "id": 12,
+    "name": "518 Base",
+    "map_file": "OP-JunShiJiDi",
+    "max_players": 16,
+    "balance": 1,
+    "default_mode": 5,
+    "allowed_modes": [
+      1,
+      3,
+      5
+    ],
+    "info": "A training base with code 518,the topographic design is symmetric. You can use Assault Rifle to attack the foothold of enemies. And use Machine Gun to defend."
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "level": 1,
+    "name": "Trainee",
+    "icon": "ico_recruit",
+    "honor_point": 1500,
+    "honor_upgrade": 1500
+  },
+  {
+    "level": 2,
+    "name": "Private",
+    "icon": "ico_private",
+    "honor_point": 3750,
+    "honor_upgrade": 2250
+  },
+  {
+    "level": 3,
+    "name": "Basic Private",
+    "icon": "ico_LanceCorporal",
+    "honor_point": 6000,
+    "honor_upgrade": 2250
+  },
+  {
+    "level": 4,
+    "name": "Private First Class",
+    "icon": "ico_PrivateFirstClass",
+    "honor_point": 9000,
+    "honor_upgrade": 3000
+  },
+  {
+    "level": 5,
+    "name": "Master Private",
+    "icon": "ico_master",
+    "honor_point": 12000,
+    "honor_upgrade": 3000
+  },
+  {
+    "level": 6,
+    "name": "First-level Corporal",
+    "icon": "ico_corporal1",
+    "honor_point": 16500,
+    "honor_upgrade": 4500
+  },
+  {
+    "level": 7,
+    "name": "Second-level Corporal",
+    "icon": "ico_corporal2",
+    "honor_point": 21000,
+    "honor_upgrade": 4500
+  },
+  {
+    "level": 8,
+    "name": "Third-level Corporal",
+    "icon": "ico_corporal3",
+    "honor_point": 25500,
+    "honor_upgrade": 4500
+  },
+  {
+    "level": 9,
+    "name": "Fourth-level Corporal",
+    "icon": "ico_corporal4",
+    "honor_point": 30000,
+    "honor_upgrade": 4500
+  },
+  {
+    "level": 10,
+    "name": "Fifth-level Corporal",
+    "icon": "ico_corporal5",
+    "honor_point": 33000,
+    "honor_upgrade": 3000
+  },
+  {
+    "level": 11,
+    "name": "First-level Sergeant",
+    "icon": "ico_sergeant1",
+    "honor_point": 36000,
+    "honor_upgrade": 3000
+  },
+  {
+    "level": 12,
+    "name": "Second-level Sergeant",
+    "icon": "ico_sergeant2",
+    "honor_point": 40500,
+    "honor_upgrade": 4500
+  },
+  {
+    "level": 13,
+    "name": "Third-level Sergeant",
+    "icon": "ico_sergeant3",
+    "honor_point": 45000,
+    "honor_upgrade": 4500
+  },
+  {
+    "level": 14,
+    "name": "Forth-level Sergeant",
+    "icon": "ico_sergeant4",
+    "honor_point": 51000,
+    "honor_upgrade": 6000
+  },
+  {
+    "level": 15,
+    "name": "Fifth-level Sergeant",
+    "icon": "ico_sergeant5",
+    "honor_point": 57000,
+    "honor_upgrade": 6000
+  },
+  {
+    "level": 16,
+    "name": "First-level Master Sergeant",
+    "icon": "ico_SergeantFirstClass1",
+    "honor_point": 63000,
+    "honor_upgrade": 6000
+  },
+  {
+    "level": 17,
+    "name": "Second-level Master Sergeant",
+    "icon": "ico_SergeantFirstClass2",
+    "honor_point": 69000,
+    "honor_upgrade": 6000
+  },
+  {
+    "level": 18,
+    "name": "Third-level Master Sergeant",
+    "icon": "ico_SergeantFirstClass3",
+    "honor_point": 76500,
+    "honor_upgrade": 7500
+  },
+  {
+    "level": 19,
+    "name": "Fourth-level Master Sergeant",
+    "icon": "ico_SergeantFirstClass4",
+    "honor_point": 85500,
+    "honor_upgrade": 9000
+  },
+  {
+    "level": 20,
+    "name": "Fifth-level Master Sergeant",
+    "icon": "ico_SergeantFirstClass5",
+    "honor_point": 96000,
+    "honor_upgrade": 10500
+  },
+  {
+    "level": 21,
+    "name": "First-level Second Lieutenant",
+    "icon": "ico_SecondLieutenant1",
+    "honor_point": 126000,
+    "honor_upgrade": 30000
+  },
+  {
+    "level": 22,
+    "name": "Second-level Second Lieutenant",
+    "icon": "ico_SecondLieutenant2",
+    "honor_point": 157500,
+    "honor_upgrade": 31500
+  },
+  {
+    "level": 23,
+    "name": "Third-level Second Lieutenant",
+    "icon": "ico_SecondLieutenant3",
+    "honor_point": 190500,
+    "honor_upgrade": 33000
+  },
+  {
+    "level": 24,
+    "name": "Fourth-level Second Lieutenant",
+    "icon": "ico_SecondLieutenant4",
+    "honor_point": 225000,
+    "honor_upgrade": 34500
+  },
+  {
+    "level": 25,
+    "name": "Fifth-level Second Lieutenant",
+    "icon": "ico_SecondLieutenant5",
+    "honor_point": 247500,
+    "honor_upgrade": 22500
+  },
+  {
+    "level": 26,
+    "name": "First-level First Lieutenant",
+    "icon": "ico_FirstLieutenant1",
+    "honor_point": 271500,
+    "honor_upgrade": 24000
+  },
+  {
+    "level": 27,
+    "name": "Second-level First Lieutenant",
+    "icon": "ico_FirstLieutenant2",
+    "honor_point": 297000,
+    "honor_upgrade": 25500
+  },
+  {
+    "level": 28,
+    "name": "Third-level First Lieutenant",
+    "icon": "ico_FirstLieutenant3",
+    "honor_point": 324000,
+    "honor_upgrade": 27000
+  },
+  {
+    "level": 29,
+    "name": "Fourth-level First Lieutenant",
+    "icon": "ico_FirstLieutenant4",
+    "honor_point": 399000,
+    "honor_upgrade": 75000
+  },
+  {
+    "level": 30,
+    "name": "Fifth-level First Lieutenant",
+    "icon": "ico_FirstLieutenant5",
+    "honor_point": 475500,
+    "honor_upgrade": 76500
+  },
+  {
+    "level": 31,
+    "name": "First-level Captain",
+    "icon": "ico_captain1",
+    "honor_point": 553500,
+    "honor_upgrade": 78000
+  },
+  {
+    "level": 32,
+    "name": "Second-level Captain",
+    "icon": "ico_captain2",
+    "honor_point": 633000,
+    "honor_upgrade": 79500
+  },
+  {
+    "level": 33,
+    "name": "Third-level Captain",
+    "icon": "ico_captain3",
+    "honor_point": 693000,
+    "honor_upgrade": 60000
+  },
+  {
+    "level": 34,
+    "name": "Fourth-level Captain",
+    "icon": "ico_captain4",
+    "honor_point": 754500,
+    "honor_upgrade": 61500
+  },
+  {
+    "level": 35,
+    "name": "Fifth-level Captain",
+    "icon": "ico_captain5",
+    "honor_point": 817500,
+    "honor_upgrade": 63000
+  },
+  {
+    "level": 36,
+    "name": "First-level Major",
+    "icon": "ico_major1",
+    "honor_point": 882000,
+    "honor_upgrade": 64500
+  },
+  {
+    "level": 37,
+    "name": "Second-level Major",
+    "icon": "ico_major2",
+    "honor_point": 1062000,
+    "honor_upgrade": 180000
+  },
+  {
+    "level": 38,
+    "name": "Third-level Major",
+    "icon": "ico_major3",
+    "honor_point": 1243500,
+    "honor_upgrade": 181500
+  },
+  {
+    "level": 39,
+    "name": "Fourth-level Major",
+    "icon": "ico_major4",
+    "honor_point": 1426500,
+    "honor_upgrade": 183000
+  },
+  {
+    "level": 40,
+    "name": "Fifth-level Major",
+    "icon": "ico_major5",
+    "honor_point": 1561500,
+    "honor_upgrade": 135000
+  },
+  {
+    "level": 41,
+    "name": "First-level Lieutenant Colonel",
+    "icon": "ico_LieutenantColonel1",
+    "honor_point": 1698000,
+    "honor_upgrade": 136500
+  },
+  {
+    "level": 42,
+    "name": "Second-level Lieutenant Colonel",
+    "icon": "ico_LieutenantColonel2",
+    "honor_point": 1836000,
+    "honor_upgrade": 138000
+  },
+  {
+    "level": 43,
+    "name": "Third-level Lieutenant Colonel",
+    "icon": "ico_LieutenantColonel3",
+    "honor_point": 2241000,
+    "honor_upgrade": 405000
+  },
+  {
+    "level": 44,
+    "name": "Fourth-level Lieutenant Colonel",
+    "icon": "ico_LieutenantColonel4",
+    "honor_point": 2647500,
+    "honor_upgrade": 406500
+  },
+  {
+    "level": 45,
+    "name": "Fifth-level Lieutenant Colonel",
+    "icon": "ico_LieutenantColonel5",
+    "honor_point": 3055500,
+    "honor_upgrade": 408000
+  },
+  {
+    "level": 46,
+    "name": "First-level Colonel",
+    "icon": "ico_colonel1",
+    "honor_point": 3355500,
+    "honor_upgrade": 300000
+  },
+  {
+    "level": 47,
+    "name": "Second-level Colonel",
+    "icon": "ico_colonel2",
+    "honor_point": 3657000,
+    "honor_upgrade": 301500
+  },
+  {
+    "level": 48,
+    "name": "Third-level Colonel",
+    "icon": "ico_colonel3",
+    "honor_point": 3960000,
+    "honor_upgrade": 303000
+  },
+  {
+    "level": 49,
+    "name": "Fourth-level Colonel",
+    "icon": "ico_colonel4",
+    "honor_point": 4860000,
+    "honor_upgrade": 900000
+  },
+  {
+    "level": 50,
+    "name": "Fifth-level Colonel",
+    "icon": "ico_colonel5",
+    "honor_point": 5790000,
+    "honor_upgrade": 930000
+  },
+  {
+    "level": 51,
+    "name": "Brigadier-general",
+    "icon": "ico_brigadier",
+    "honor_point": 6750000,
+    "honor_upgrade": 960000
+  },
+  {
+    "level": 52,
+    "name": "Major General",
+    "icon": "ico_MajorGeneral",
+    "honor_point": 7740000,
+    "honor_upgrade": 990000
+  },
+  {
+    "level": 53,
+    "name": "Lieutenant  General",
+    "icon": "ico_LieutenantGeneral",
+    "honor_point": 8760000,
+    "honor_upgrade": 1020000
+  },
+  {
+    "level": 54,
+    "name": "Senior General",
+    "icon": "ico_general",
+    "honor_point": 9810000,
+    "honor_upgrade": 1050000
+  },
+  {
+    "level": 55,
+    "name": "Marshal",
+    "icon": "ico_FieldMarshal",
+    "honor_point": 10992000,
+    "honor_upgrade": 1182000
+  }
+]

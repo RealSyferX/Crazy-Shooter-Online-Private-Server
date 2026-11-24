@@ -1,0 +1,20 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Runtime SQLite database & logs
+csg.db
+csg.db-journal
+csg.db-shm
+csg.db-wal
+*.log
+
+# Local OS / IDE / temp artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+127.0.0.1

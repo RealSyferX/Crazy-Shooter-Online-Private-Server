@@ -1,0 +1,68 @@
+{
+  "server_name": "CSG Local Private Server",
+  "bind_host": "0.0.0.0",
+  "public_ip": "127.0.0.1",
+  "bishop_port": 7451,
+  "realm_port": 7452,
+  "http_port": 8080,
+  "database_path": "csg.db",
+  "client_dir": "C:\\Program Files (x86)\\CSO Malaysia",
+  "auto_register_on_login": true,
+  "default_gp": 500000,
+  "default_csp": 25000,
+  "registration": {
+    "enabled": true,
+    "cap_enabled": false,
+    "max_accounts": 10000,
+    "maintenance_enabled": false,
+    "maintenance_allow_gm": true,
+    "announcement": "Welcome to CSG Private Server (Clean-Room Emulator)!"
+  },
+  "event": {
+    "active": true,
+    "exp_percent": 200,
+    "gp_percent": 200
+  },
+  "realms": [
+    {
+      "id": 1,
+      "name": "CSG MY",
+      "work_state": 1
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "name": "Ch 1 - Free",
+      "max_players": 200,
+      "state": 1
+    },
+    {
+      "id": 2,
+      "name": "Ch 2 - Newbie",
+      "max_players": 200,
+      "state": 1
+    },
+    {
+      "id": 3,
+      "name": "Ch 3 - Pro",
+      "max_players": 200,
+      "state": 1
+    }
+  ],
+  "match_server": {
+    "enabled": true,
+    "mode": "ue2_multiplayer",
+    "spawn_dedicated_cs_exe": false,
+    "dedicated_server_exe": "",
+    "external_ip": "",
+    "external_port": 0,
+    "port_range_start": 7777,
+    "port_range_end": 7795,
+    "tick_hz": 100.0,
+    "respawn_delay": 3.0,
+    "client_timeout": 30.0,
+    "ready_timeout_seconds": 5.0,
+    "max_match_seconds": 3600
+  }
+}
