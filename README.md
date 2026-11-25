@@ -153,4 +153,5 @@ python tests\test_multiplayer_match.py
 
 **Authored by RealSyferX**
 
-*Built for educational, preservation, and private LAN playtesting of Crazy Shooter Online (CSO Malaysia). No proprietary game binaries or assets are redistributed in this repository.*
+*Built for educational, preservation, and private LAN playtesting of Crazy Shooter Online (CSO Malaysia).*
+[Client](https://drive.google.com/file/d/1KcG0GSRxojy-YiwW4OC01iM4urEc8S3X/view?usp=sharing)
